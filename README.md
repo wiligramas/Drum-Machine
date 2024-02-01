@@ -1,5 +1,5 @@
 
-![preview](./drum-mashine.png)
+![preview](./drum-machine.png)
 
 
 > 💥 Trilha Front End Development Libraries
@@ -11,7 +11,7 @@
 - HTML * React * TypeScript * CSS
 * Vite * Git e Github
 
- ### 🤙 [Link do site](https://wiligramasdev-ramdom-quote-mashine.netlify.app/)
+ ### 🤙 [Link do site](https://wiligramasdev-drum-machine.netlify.app/)
 
 ## ☎️Contactos
 - wiligramasdev@gmail.com
